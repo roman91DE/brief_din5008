@@ -1,5 +1,5 @@
-*.md
 *.pdf
 
 !template.md
 !example.pdf
+.Rproj.user
