@@ -15,7 +15,7 @@ def check_template_exists():
           'https://raw.githubusercontent.com/benedictdudel/pandoc-letter-din5008/master/letter.latex',
           '--create-dirs',
           '-o',
-          '~/.pandoc/templates/letter.latex'
+          template_path
           ]
         )
 
