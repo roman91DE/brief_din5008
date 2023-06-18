@@ -11,7 +11,9 @@ to: |
   Musterstraße 2  
   12345 Musterstadt
 date: 01.01.2023
+fontsize: 11pt
 subject: Musterschreiben
+
 signature: Max Mustermann
 ...
 Nostrud ullamco do elit ullamco. Tempor culpa id minim eiusmod labore in fugiat anim anim cupidatat est. Ipsum culpa in labore ea minim nisi amet. Fugiat aute duis non ut aliqua ex. Irure id nulla amet do nostrud commodo ea aliqua non eu.

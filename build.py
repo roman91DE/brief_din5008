@@ -7,9 +7,7 @@ import os
 def check_template_exists():
     home = os.path.expanduser("~")
     template_path = os.path.join(home, ".pandoc/templates/letter.latex")
-    if os.path.exists(template_path):
-        print(f"Template {template_path} exists.")
-    else:
+    if not os.path.exists(template_path):
         run(
           ['curl',
           'https://raw.githubusercontent.com/benedictdudel/pandoc-letter-din5008/master/letter.latex',
