@@ -1,6 +1,9 @@
 *.pdf
+*.md
 
 !template.md
 !template.pdf
-!example.pdf
-.Rproj.user
+
+!README.md
+
+.DS_Store
