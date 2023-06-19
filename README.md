@@ -8,11 +8,19 @@ Based on [benedictdudel/pandoc-letter-din5008](https://github.com/benedictdudel/
 
 ## Usage
 
+### Bulding a single document
+
 ``` bash
 build.py [-h] input_file output_file
+```
+
+### (Re)-Building all documents from ./plaintxt
+
+``` bash
+./build_all.sh
 ```
 
 ## Dependencies
 
 * Pandoc
-* Python3.8 or higher
+* Python3.x

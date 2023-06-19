@@ -11,7 +11,7 @@ to: |
   Musterstraße 2  
   12345 Musterstadt
 date: 01.01.2023
-fontsize: 11pt
+fontsize: 12pt
 subject: Musterschreiben
 
 signature: Max Mustermann
