@@ -25,3 +25,4 @@ build.py [-h] input_file output_file
 * Pandoc
 * Python3.x
 * curl
+* bash
