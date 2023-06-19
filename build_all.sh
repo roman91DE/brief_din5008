@@ -20,6 +20,11 @@ if [ ! -d "pdfs" ]; then
 	mkdir pdfs
 fi
 
+# create the plaintxt directory if it doesn't exist
+if [ ! -d "plaintxt" ]; then
+	mkdir plaintxt
+fi
+
 SRC_FILES=plaintxt/*.md
 
 TARGET_FILES=""
